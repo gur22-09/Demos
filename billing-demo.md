@@ -1,4 +1,4 @@
-# Instapos 
+# Billing Dashboard 
 Here is the Demo for billing Dashboard, which was built exclusively for managing order punching service, controlling outlets, syncing menu, exclusively for all of the Instapizza outlets.
 
 Since this a non-production demo, some of the images and features are removed for security reasons with the client.
