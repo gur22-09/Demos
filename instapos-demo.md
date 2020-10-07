@@ -1,7 +1,5 @@
 # Instapos 
-Here is the demo for the Instapos Dashboard I built and optimized while working at E-beta Innovations. For the sake of showcasing real customer and staff data is not presented and only some of the important features are show because presenting the working of the entire dashboard will take quite some time.
-
-Since this a non-production demo, some of the images and features are removed for security reasons with the client.
+Here is the demo for the Instapos App I built while working at E-beta Innovations. For this demo authentic data is not presented and only some of the features are show as presenting the working of the entire dashboard will take quite some time.
 
 ## Demo
 

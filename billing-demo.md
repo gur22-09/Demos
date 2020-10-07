@@ -1,7 +1,5 @@
 # Billing Dashboard 
-Here is the Demo for billing Dashboard, which was built exclusively for managing order punching service, controlling outlets, syncing menu, exclusively for all of the Instapizza outlets.
-
-Since this a non-production demo, some of the images and features are removed for security reasons with the client.
+Here is the demo for the Billing App I built while working at E-beta Innovations. For this demo authentic data is not presented and only some of the features are show as presenting the working of the entire dashboard will take quite some time.
 
 ## Demo
 
