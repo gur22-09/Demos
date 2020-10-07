@@ -1,4 +1,4 @@
-# Instapos 
+# Eatiz 
 Here is the demo for the Eatiz App I built while working at E-beta Innovations. For this demo authentic data is not presented and only some of the features are show as presenting the working of the entire dashboard will take quite some time.
 
 
